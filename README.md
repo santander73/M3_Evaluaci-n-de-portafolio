@@ -14,6 +14,8 @@ Este proyecto va más allá de las operaciones básicas (CRUD) para incluir conc
 6. **Programación y Control de Transacciones:** Implementación de lógica de negocio encapsulada en Procedimientos Almacenados y garantía de atomicidad con Transacciones (`BEGIN`, `COMMIT`, `ROLLBACK`).
 
 ## Estructura del Repositorio
+<img width="611" height="441" alt="estructura" src="https://github.com/user-attachments/assets/23a72eb6-171e-49b3-b340-1fabfd729539" />
+
 <details>
 <summary><b>/
 |-- 1_Modelo_Datos/
