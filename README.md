@@ -16,28 +16,4 @@ Este proyecto va más allá de las operaciones básicas (CRUD) para incluir conc
 ## Estructura del Repositorio
 <img width="611" height="441" alt="estructura" src="https://github.com/user-attachments/assets/23a72eb6-171e-49b3-b340-1fabfd729539" />
 
-<details>
-<summary><b>/
-|-- 1_Modelo_Datos/
-|   |-- modelo_ER_inventario.png  (Diagrama Entidad-Relación)
-|   |-- README.md                 (Explicación del modelo y conceptos)
-|
-|-- 2_Definicion_DDL/
-|   |-- schema.sql                (Script CREATE DATABASE/TABLE)
-|   |-- README.md                 (Explicación DDL y constraints)
-|
-|-- 3_Manipulacion_DML/
-|   |-- data.sql                  (Script INSERT, UPDATE, DELETE)
-|   |-- README.md                 (Explicación DML)
-|
-|-- 4_Consultas_DQL/
-|   |-- consultas.sql             (Script SELECT...FROM...WHERE...)
-|   |-- README.md                 (Explicación de las consultas)
-|
-|-- 5_Avanzado_TCL_PSM/
-|   |-- transaccion_atomicidad.sql (Ejemplo de BEGIN/COMMIT/ROLLBACK)
-|   |-- procedimiento_almacenado.sql (Ejemplo de CREATE PROCEDURE)
-|   |-- README.md                 (Explicación de conceptos avanzados)
-|
-|-- README.md                     (Este archivo)
-</b></summary>
+
