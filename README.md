@@ -14,8 +14,8 @@ Este proyecto va más allá de las operaciones básicas (CRUD) para incluir conc
 6. **Programación y Control de Transacciones:** Implementación de lógica de negocio encapsulada en Procedimientos Almacenados y garantía de atomicidad con Transacciones (`BEGIN`, `COMMIT`, `ROLLBACK`).
 
 ## Estructura del Repositorio
-
-'''/
+<details>
+<summary><b>/
 |-- 1_Modelo_Datos/
 |   |-- modelo_ER_inventario.png  (Diagrama Entidad-Relación)
 |   |-- README.md                 (Explicación del modelo y conceptos)
@@ -37,4 +37,5 @@ Este proyecto va más allá de las operaciones básicas (CRUD) para incluir conc
 |   |-- procedimiento_almacenado.sql (Ejemplo de CREATE PROCEDURE)
 |   |-- README.md                 (Explicación de conceptos avanzados)
 |
-|-- README.md                     (Este archivo) '''
+|-- README.md                     (Este archivo)
+</b></summary>
